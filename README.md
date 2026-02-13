@@ -18,7 +18,7 @@ Critically: this connection is random. If there are multiple valid connections t
 If you stipulate that tiles can only bind with a combined strength of at least 2, a system of this type is referred to as *temperature* 2, then square tiles are capable of doing universal computation. That is to say, they can assemble themselves in such a way to simulate the behaviors of a computer. 
 
 However, square tiles in temperature 1 systems are not capable of this. Dr. Hendricks, in a previous project, determined that a temperature 1 aTAM system made of *rhombic* tiles was in fact capable of computation. Here is an example diagram of the complicated structure needed for these tiles to read a binary digit.
-![Diagram of a bit reader in a rhombic aTAM system.](example_bit_reader.svg)
+![Diagram of a bit reader in a rhombic aTAM system.](macro-106_path_g2.svg)
 
 This construction, however, does not work for all kinds of rhombuses. 
 ## Goals
