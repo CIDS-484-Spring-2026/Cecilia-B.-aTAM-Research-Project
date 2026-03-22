@@ -7,7 +7,7 @@ Because I am doing this project in collaboration with Dr. Hendricks, I asked him
 
 ## Format
 
-This conference uses the [Springer Lecture Notes in Computer Science](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj)LaTeX format for papers. LaTeX is a typesetting system designed for scientific papers, and this Springer LNCS format is one of many custom formats that you can create via the LaTeX standard. 
+This conference uses the [Springer Lecture Notes in Computer Science](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) LaTeX format for papers. LaTeX is a typesetting system designed for scientific papers, and this Springer LNCS format is one of many custom formats that you can create via the LaTeX standard. 
 
 ## Conclusion
 
