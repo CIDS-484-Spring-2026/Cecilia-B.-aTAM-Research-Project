@@ -8,16 +8,18 @@ If we can rotate a rhombus such that it is less than the "dead angle," we can co
 
 The question then is, can we split the dead angle? If we can, what rotation of the rhombus do we need?
 
-The dead angle is defined like so:\
-$$D_A = 2\beta \mod{180} $$\
+The dead angle is defined like so:
+
+$$D_A = 2\beta \mod{180} $$
 
 Note that any angle we can create will be of the form $n\beta \text{ mod }180$. 
 
-Now note what happens if we split the dead angle in half:\
+Now note what happens if we split the dead angle in half:
 
-$$\frac{1}{2}D_A = \frac{2\beta \text{ mod } 180}{2} \rightarrow$$\
+$$\frac{1}{2}D_A = \frac{2\beta \text{ mod } 180}{2} \rightarrow$$
 
-$$\frac{2\beta \mod{180}}{2}\equiv \beta \mod{90}$$\
+$$\frac{2\beta \mod{180}}{2}\equiv \beta \mod{90}$$
+
 via modular congruence. Also note that:
 
 $$\beta + 90 \mod{90} \equiv \beta \mod{90}$$
